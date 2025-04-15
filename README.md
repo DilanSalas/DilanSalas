@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Dyllan Salas Cruz from Costa Rica]<br><br>
+<p align="left">I'm Dyllan Salas Cruz from Costa Rica<br><br>
 - 🔭 I’m currently working as Software Developer<br>
 - 🌱 I’m currently learning React<br>
 
